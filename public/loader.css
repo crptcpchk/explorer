@@ -1,5 +1,5 @@
 #loading-bg {
-  background: var(--initial-loader-bg, #fff);
+  background: var(--initial-loader-bg, #0F1C1A);
 }
 
 .loading-logo {
